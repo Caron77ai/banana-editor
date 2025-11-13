@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Banana Editor](public/logo.png)
+![Banana Editor](https://bananaeditor.art/logo.png)
 
 **Professional AI Photo Editing, Free to Start**
 

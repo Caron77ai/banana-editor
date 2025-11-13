@@ -7,7 +7,7 @@
 **Professional AI Photo Editing, Free to Start**
 
 [![Website](https://img.shields.io/badge/Website-bananaeditor.art-blue)](https://bananaeditor.art)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2)](https://discord.gg/hVKht557VE)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2)](https://discord.gg/CE28rMeRyh)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 [English](#english) | [中文](#中文)
@@ -99,7 +99,7 @@ Built with modern web technologies:
 
 ### 🌟 Community & Support
 
-- 💬 **Discord**: [Join our community](https://discord.gg/hVKht557VE)
+- 💬 **Discord**: [Join our community](https://discord.gg/CE28rMeRyh)
 - 📧 **Email**: support@bananaeditor.art
 - 🐛 **Issues**: [GitHub Issues](https://github.com/caronna/banana-editor/issues)
 - ⭐ **Star us on GitHub** if you find this project useful!
@@ -197,7 +197,7 @@ Banana Editor 是一个**免费的专业 AI 图片编辑平台**，由 Google �
 
 ### 🌟 社区与支持
 
-- 💬 **Discord**: [加入社区](https://discord.gg/hVKht557VE)
+- 💬 **Discord**: [加入社区](https://discord.gg/CE28rMeRyh)
 - 📧 **邮箱**: support@bananaeditor.art
 - 🐛 **问题反馈**: [GitHub Issues](https://github.com/caronna/banana-editor/issues)
 - ⭐ **给我们点个 Star** 如果觉得这个项目有用！
